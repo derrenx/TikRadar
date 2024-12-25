@@ -8,3 +8,7 @@ https://www.tikradar.com/
 Search trending TikTok hashtags and analyze TikTok hashtags performance metrics.
 
 Free TikTok hashtag analytics tool for content creators and marketers. Search perfect hashtags for your niche.
+
+# Source Code
+
+https://mangagus.gumroad.com/l/tikradar
